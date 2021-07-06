@@ -4,6 +4,8 @@
 
 For my analysis, I used [this dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) collected with this API by a Kaggle user, [Yamac Eren Ay](https://www.kaggle.com/yamaerenay). There are two main datasets: one for **songs** and another one for **artists** (the other datasets are derived from the first ones, by aggregation techniques). The songs dataset contains around **600k songs**, released between **1922 and 2020**.
 
+- *See the [slides](https://docs.google.com/presentation/d/1KQRHCDIp2CyynliMgAhLzI60hiBIQYf1S0eNX2s6Kyg/edit?usp=sharing) of the final presentation.*
+
 ## 1. Analysis
 
 ### How has music taste changed over time?
